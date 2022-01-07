@@ -18,6 +18,7 @@ In starting the project, we identified 3 design principles that are missing from
 
 **The Plan:**
 
- - Step 1: Create a new embedded controller system for plastic recycling and manufacturing equipment that allows for data collection, analytics, and remote device monitoring / control. Learn more here: https://github.com/mlhansen88/Chasing-Arrows/blob/main/Embedded-IOT-Controller/README.md 
-  
- - More Coming Soon!
+ - Sub-Project 1: Create a new embedded controller system for plastic recycling and manufacturing equipment that allows for data collection, analytics, and remote device monitoring / control. Learn more here: https://github.com/mlhansen88/Chasing-Arrows/blob/main/Embedded-IOT-Controller/README.md 
+ - Sub-Project 2: Develop a system to embedded NFC tags link to NFTs in the manufactured plastic products to provide supply chain provenance, unique customer experiences, and decentrailized authenitcation/transations.
+
+- More Coming Soon!
