@@ -2,9 +2,11 @@ Project Abstract:
   The goal of this project is to create a new embedded controller system for plastic recycling and manufacturing
   equipment. 
 
-  The current system can be view on the injection machine located here:
+  The current system can be viewed on the injection machine located here:
   https://minufacture.com/collections/plastic/products/injection-machine
-
+  
+  This machine was derived from the original Precious Plastic Injection Machine: https://www.onearmy.earth/news/injection-machine
+  
   The current plastic electrical system contains two MYPIN TA temperature controllers that use PID and PWM to drive
   SSRs connected to heating elements monitored by K thermocouples. The system also has a time-controlled relay (not
   shown) that is used drive and hold a pneumatic piston for a set time duration.
