@@ -18,6 +18,6 @@ In starting the project, we identified 3 design principles that are missing from
 
 **The Plan:**
 
-**  Step 1:** Create a new embedded controller system for plastic recycling and manufacturing equipment that allows for data collection, analytics, and remote device monitoring / control. Learn more about this subproject here: https://github.com/mlhansen88/Chasing-Arrows/blob/main/Embedded-IOT-Controller/README
+ - Step 1: Create a new embedded controller system for plastic recycling and manufacturing equipment that allows for data collection, analytics, and remote device monitoring / control. Learn more here: https://github.com/mlhansen88/Chasing-Arrows/blob/main/Embedded-IOT-Controller/README
   
-  More Coming Soon!
+ - More Coming Soon!
