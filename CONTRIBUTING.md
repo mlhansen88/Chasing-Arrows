@@ -16,7 +16,7 @@ TBD
 
 ## Coding conventions
 
-Our coding conventions are TBD. Below are the what we have determined:
+Our coding conventions are TBD. Below are what we have determined:
 
   * We indent using two spaces (soft tabs)
   * Comment your code!
